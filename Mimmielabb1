@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html><title>LABB1</title><link href="style.css" rel="stylesheet">
+<head>
+  <center><header><h1>Interior </br>Design</h1></header></center> 
+<meta name="viewport" content="width=device-width, initial-scale=12">
+<style>
+
+</style>
+</head>
+<body>
+    <style>
+
+        </style>
+    </body>         
+<div class="topnav">
+  <a class="active" href="IDPhoto2_Interior-Design-Masquespacio-Bun-Burger-Turin-Italy-restaurant-idx210801_roundup23-08.webp" target=":blank">PROJECTS</a>
+  <a href="IDPhoto_Interior-Design-Conrad-Architects-Toorak-Garden-Conrad-Architects_Toorak-Garden-Residence_06.webp"target="_blank">HOMES</a>
+  <a href="mailto:mimmiesonntag@outlook.com" target="_blank">contact</a>
+  <div class="dropdown">
+    <div class="dropdown-content">
+    <p>hej hej hej hej hej </p>
+    </div><a href="#about">About</a>
+</div></div>
+</br>
+<div style="padding-left:16px">
+    <h2>Top Navigation Example</h2>
+    <label for="cars">Choose a room:</label>
+    <select id="room">
+      <option value="bedroom">bedroom</option>
+      <option value="livingroom">Livingroom</option>
+      <option value="kitchen">Kitchen</option>
+      <option value="bathroom" selected>Bathroom</option>
+    </select>
+  </div>
+</br>
+</br>
+</br>
+</br>
+  <main>main</main>
+  <article>
+    <p class="first">Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</p>
+    <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</p></article>
+  <aside>The Epcot center is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</aside>
+  </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+  <footer><center>this is my footer </center></footer>
+</html>
